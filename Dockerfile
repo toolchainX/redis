@@ -36,4 +36,4 @@ CMD ["redis-server", "/etc/redis/redis.conf"]
 # Expose ports.
 EXPOSE 6379
 
-RUN echo "hello world by tlh"
+RUN echo "hello world by tlh in b1 branch"
